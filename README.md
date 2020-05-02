@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-Complete ruby on rails development
+first test repo on the complete ruby on rails developer course by Hussain
